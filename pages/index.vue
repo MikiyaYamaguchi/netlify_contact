@@ -49,7 +49,21 @@ export default {
 
 <style scoped>
 .container {
-  max-width: 1200px;
+  max-width: 800px;
   margin: 0 auto;
+}
+.contact_form .contact_item {
+  display: flex;
+  margin-bottom: 2%;
+}
+.contact_form .contact_item label {
+  width: 20%;
+}
+.contact_form .contact_item input,
+.contact_form .contact_item textarea {
+  width: 80%;
+}
+.contact_form .contact_submit {
+  text-align: center;
 }
 </style>
