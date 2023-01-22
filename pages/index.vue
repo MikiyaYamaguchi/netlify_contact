@@ -4,7 +4,6 @@
       class="contact_form"
       name="contact"
       method="POST"
-      action="/thanks"
       data-netlify="true"
       netlify-honeypot="bot-field"
     >
