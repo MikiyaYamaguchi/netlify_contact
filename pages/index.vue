@@ -8,7 +8,6 @@
       data-netlify="true"
       netlify-honeypot="bot-field"
     >
-      <input type="hidden" name="form-name" value="contact" />
       <div class="contact_item">
         <label for="name">お名前</label>
         <input type="text" id="name" name="name" autocomplete="name" required />
